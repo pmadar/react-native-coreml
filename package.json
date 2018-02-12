@@ -1,0 +1,41 @@
+{
+  "_from": "git+https://github.com/pmadar/react-native-coreml.git",
+  "_id": "react-native-core-ml@0.0.6",
+  "_inBundle": false,
+  "_location": "/react-native-core-ml",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "react-native-core-ml@git+https://github.com/pmadar/react-native-coreml.git",
+    "name": "react-native-core-ml",
+    "escapedName": "react-native-core-ml",
+    "rawSpec": "git+https://github.com/pmadar/react-native-coreml.git",
+    "saveSpec": "git+https://github.com/pmadar/react-native-coreml.git",
+    "fetchSpec": "https://github.com/pmadar/react-native-coreml.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/pmadar/react-native-coreml.git#3cbc38b385033d5996566347dbca3ad12fe1b64c",
+  "_spec": "react-native-core-ml@git+https://github.com/pmadar/react-native-coreml.git",
+  "_where": "/Users/pavolmadar/www/IkeaCleverProduct",
+  "bugs": {
+    "url": "https://github.com/jigsawxyz/react-native-coreml/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "ReactNative library to allow image recognition through CoreML Machine Learning",
+  "homepage": "https://github.com/jigsawxyz/react-native-coreml#readme",
+  "keywords": [
+    "react-native"
+  ],
+  "license": "MIT",
+  "main": "CoreMLImage.ios.js",
+  "name": "react-native-core-ml",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmadar/react-native-coreml.git"
+  },
+  "version": "0.0.6"
+}
